@@ -50,7 +50,10 @@ console.log(
 );
 // "+" it is used for concat but also used for as operator
 
+
 console.log(1 + 1, "additiom");
-console.log("1" + 1, "string");
+console.log("1" + 1, "string"); // first is string 
 console.log("1" + "1", "string");
-console.log(1 + "1", "string");
+console.log(1 + "1","number then string = string");
+console.log(2+2+"2");
+console.log("2"+2+2);
