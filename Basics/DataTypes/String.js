@@ -15,7 +15,7 @@ console.log("my last name is ", lastName);
 //concatination: joins the strings
 
 const fullname = Salutation + firstName + lastName;
-console.log("my full name is ", fullname);
+console.log("my full name is ", firstName, lastName);
 
 // Interpolation: put variable inside the string
 const greeting =
